@@ -19,6 +19,7 @@
 </div>
 <h4>깃허브 분석 :octocat:</h4>
 <hr>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jin00-dev&layout=compact)](https://github.com/jin00-dev/github-readme-stats)
-<br>
-![Yeojin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jin00-dev&hide=stars&count_private=true&hide_rank=true&show_icons=true&theme=default)
+<div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jin00-dev&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=jin00-dev&hide=stars&count_private=true&hide_rank=true&show_icons=true&theme=default">
+</div>

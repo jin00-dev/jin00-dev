@@ -1,11 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=FFC61A&height=140&text=welcome%20to%20my%20space.&fontSize=37)
 <br>
-<h4>:muscle:클라이밍하는 개발자 박여진입니다.</h4>
+<h3>:muscle:클라이밍하는 개발자 박여진입니다.</h3>
 <hr>
 <p>클라이밍은 언제나 닿아야 하는 목표, 탑 홀드가 존재합니다.
 <br> 끊임없는 도전으로 반드시 탑 홀드를 잡고야 마는 열정과 끈기를 가지고 있습니다.
 <br> 그 열정과 끈기를 가지고 개발의 탑 홀드를 향해 지속적으로 손을 뻗어 결국 잡아낼 것입니다. </p>
-<h4>:computer:기술 스택 </h4>
+<h3>:computer:기술 스택 </h3>
 <hr>
 <div>
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
-<h4>:octocat:깃허브 분석 </h4>
+<h3>:octocat:깃허브 분석 </h3>
 <hr>
 <div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jin00-dev&layout=compact">
